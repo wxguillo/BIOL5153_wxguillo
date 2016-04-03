@@ -1,0 +1,49 @@
+---
+output: html_document
+---
+###Wilson Xavier Guillory
+465 Panorama Loop, Eureka Springs, AR 72631  
+Email: wxguillo@email.uark.edu  
+Phone: 479-244-7461
+
+####Education
+Board of Trustees, University of Arkansas, Fayetteville, AR  
+B. S. Biology, expected May 2017  
+Current GPA: 4.0  
+Hours completed: 123 (junior standing)  
+
+####Research experience
+* Undergraduate honors research (2013-present)
+    + Sequencing and phylogenetic analysis of diatom mitochondrial genomes to evaluate and understand the origin and evolution of introns.
+    + Advisor: Dr. Andrew Alverson, Assistant Professor of Biological Sciences, University of Arkansas, Fayetteville, AR
+    
+* REU at National Museum of Natural History (2015)
+    + Investigation of DNA ultraconserved elements as a phylogenomic technique for use in entomological collections using carpenter bees (genus: _Xylocopa_).
+    + Advisor: Dr. Seán Brady, Chair of Dept of Entomology & Curator of Hymenoptera, National Museum of Natural History, Washington, DC
+* REU at Field Museum of Natural History (2014)
+    + Investigated the evolutionary relationships of millipedes through morphological features with scanning electron and light microscopy.
+    + Advisor: Dr. Petra Sierwald, Associate Curator, Field Museum of Natural History, Chicago, IL
+* High school research (2012-2013)
+    + Designed, performed, and presented an experiment on the responsiveness of sea urchins to water pollution.
+    + Advisor: Dr. Jon Ruehle, Biology Instructor, Arkansas School for Mathematics, Sciences, and the Arts, Hot Springs, AR
+
+####Publications
+* Nakov T, **Guillory WX,** Julius ML, Theriot EC, Alverson AJ. 2015. Towards a phylogenetic classification of species belonging to the diatom genus _Cyclotella_ (Bacillariophyceae): Transfer of species formerly placed in _Puncticulata, Handmannia, Pliocaenicus_ and _Cyclotella_ to the genus _Lindavia. Phytotaxa,_ 217(3), 55-63.
+
+####Skills & protocols
+*	DNA extraction, quality assessment, shearing, and storage
+*	PCR and gel electrophoresis
+*	Preparation of DNA libraries for Illumina sequencing
+*	Light and scanning electron microscopy
+*	Image processing and focal stacking
+*	Graphical design and illustration
+*	High-performance computing, Linux command line, and BASH scripting
+* Proficiency in R
+
+####Awards, achievements, & activities
+*	Goldwater Scholarship (2016)
+*	Honors College Research Grant (2016)
+*	Honors College Fellowship at the University of Arkansas (2013-2017)
+*	Arkansas Governor's Distinguished Scholarship (2013-2017)
+*	National Merit Scholarship (2013-2017)
+*	Alpha Lambda Delta first-year honors society
