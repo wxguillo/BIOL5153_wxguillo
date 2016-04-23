@@ -65,7 +65,7 @@ $len_seq = length ($seq[0]);
 # print number of taxa, followed by length of alignment
 print "\n$num_seq $len_seq\n";
 
-# print taxon names and sequences, separated by tab
+# print taxon names and sequences, separated by appropriate number of spaces
 for( $i = 0; $i < @name; $i++ ){
   print $name[$i];
   $space_ct = $max_space - length($name[$i]);
