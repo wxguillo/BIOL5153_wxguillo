@@ -8,7 +8,7 @@ $ARGV[0] or die $usage;
 # open PHYLIP file
 open ( PHYLIP, $ARGV[0] ) || die "Can't open $ARGV[0]";
 
-# read contents and separate names and sequences into two different arrays
+# read contents and display separated names and sequences in fasta format
 my @name;
 while ( $line = <PHYLIP> ){
   if( $line =~ /(.*) {3,}(.*)/ ){
